@@ -1,0 +1,4 @@
+line1: hola como estas
+line2: esto es una prueba 
+line3: de errores
+line4: en python
